@@ -1,1 +1,1 @@
-window.TUBEPAD_CFG={NAME:"TubePad",TICKER:"TUBE",CA:"",CHAIN:"solana",PAD:"pumpfun",X:"",BUY:"",CHART:""};
+window.TUBEPAD_CFG={NAME:"TubePad",TICKER:"TUBE",CA:"CDDbJmNpqnwmwAAxY7CrYn1X2b9ySnVFfCgQrGMZpump",CHAIN:"solana",PAD:"pumpfun",X:"https://x.com/usetubepad",BUY:"",CHART:""};
